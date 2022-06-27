@@ -114,7 +114,7 @@ export default function Home() {
         
 
         </div>
-        <a href='https://github.com/FuadHy' target={'_blank'} class='w-full text-center text-[#dfdfdf] t2:text-[#000000] no-underline absolute bottom-3 text-[9px]'>github.com/fuadhy</a>
+        <a href='https://github.com/FuadHy/nextjs-tailwindcss-calc' target={'_blank'} class='w-full text-center text-[#dfdfdf] t2:text-[#000000] no-underline absolute bottom-3 text-[9px]'>github.com/fuadhy</a>
       </div>
       
     </div>
